@@ -1,0 +1,7 @@
+fix wall
+paint ceiling
+walk dog
+clean cat box
+wash dishes
+fold laundry
+write novel
