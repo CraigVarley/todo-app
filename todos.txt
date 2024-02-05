@@ -1,7 +1,3 @@
-fix wall
-paint ceiling
-walk dog
-clean cat box
-wash dishes
-fold laundry
+clean clothes
+get scurvy
 write novel
